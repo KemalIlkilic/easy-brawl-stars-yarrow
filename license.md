@@ -202,6 +202,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Brawl Stars · Updated 2026-11-19 · Shared under the MIT License*
+*Brawl Stars · Updated 2026-11-20 · Shared under the MIT License*
 
-<!-- updated 2026-11-19 -->
+<!-- updated 2026-11-20 -->
